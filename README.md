@@ -9,7 +9,7 @@ The second jupyter notebook (part_2_mars_weather.ipynb) contains information of 
 In parentheses are the questions answered (for example, #1 signifies the findings for question #1)
 With 1867 Martian days worth of data (#2), we were able to confirm that there are twelve months in a Martian year (#1).
 
-The bar chart for temperatures for each month showed that month 3 had the coldest minimum temperatures (~-80 degrees Celsius) while month 3 had the warmest minimum temperatures (~-69 degrees Celsius). (#3)
+The bar chart for temperatures for each month showed that month 3 had the coldest minimum temperatures (about -80 degrees Celsius) while month 3 had the warmest minimum temperatures (about -69 degrees Celsius). (#3)
 
 A bar chart for temperatures for each month shows month 6 experiences the least atmospheric pressure (~750 Pascals) while month 9 experiences the most atmospheric pressure (~900 Pascals). (#4)
 
